@@ -35,5 +35,6 @@ Initial-value problems for ordinary differential equations (ODEs) are used to mo
 - Implicit Trapezoidal with Newton Iteration
 
 ## Direct Methods for Solving Linear Systems
+Direct methods for solving linear systems, such as Gaussian elimination or matrix factorization techniques (like LU decomposition), are used for efficiently solving equations that arise during model training and optimization. These methods are crucial for tasks such as linear regression, where they help compute the optimal coefficients quickly by solving the normal equations derived from the data.
 - Gaussian Elimination with Backward Substitution
 - Gaussian Elimination with Scaled Partial Pivoting
