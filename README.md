@@ -14,3 +14,4 @@
 - Hermite Interpolation
 - Natural Cubic Spline Interpolation
 
+## Numerical Differentiation and Integration
