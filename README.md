@@ -9,6 +9,7 @@ Solutions of equations in one variable facilitate optimization processes, such a
 - Muller's Method
 
 ## Interpolation and Polynomial Approximation
+Interpolation and polynomial approximation estimate unknown values from known data points, allowing for more accurate predictions and data analysis. These techniques help in modeling complex relationships and handling noisy data, thereby improving the robustness and performance of machine learning models.
 - Langrange Interpolating Polynomial
 - Newton's Divided-Difference Formula
 - Hermite Polynomials Using Divided Differences
