@@ -1,8 +1,8 @@
 # Numerical Analysis
 
 ## Solutions of Equations in One Variable
-- [Bisection Method](https://example.com/bisection)
-- [Fixed-Point Iteration](https://example.com/fixed-point)
+- [Bisection Method](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab1.ipynb)
+- [Fixed-Point Iteration](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab1.ipynb)
 - Newton's Method and Its Extensions
   - Secant Method
 - Muller's Method
