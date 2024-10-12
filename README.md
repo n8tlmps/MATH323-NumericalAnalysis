@@ -28,3 +28,5 @@
 - Adams Fourth-Order Predictor-Corrector
 - Runge-Kutta Method for Systems of Differential Equations
 - Implicit Trapezoidal with Newton Iteration
+
+## Direct Methods for Solving Linear Systems
