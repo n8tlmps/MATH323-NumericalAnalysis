@@ -15,3 +15,16 @@
 - Natural Cubic Spline Interpolation
 
 ## Numerical Differentiation and Integration
+### 1D
+- Composite Simpson's Rule
+- Gaussian Quadrature
+### 2D
+- Composite Simpson's Rule
+- Gaussian Quadrature
+
+## Initial-Value Problems for Ordinary Differential Equations
+- Euler's Method
+- Runge-Kutta Method (Order Four)
+- Adams Fourth-Order Predictor-Corrector
+- Runge-Kutta Method for Systems of Differential Equations
+- Implicit Trapezoidal with Newton Iteration
