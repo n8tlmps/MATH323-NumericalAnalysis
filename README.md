@@ -30,3 +30,6 @@
 - Implicit Trapezoidal with Newton Iteration
 
 ## Direct Methods for Solving Linear Systems
+- Gaussian Elimination with Backward Substitution
+- Gaussian Elimination with Scaled Partial Pivoting
+- 
