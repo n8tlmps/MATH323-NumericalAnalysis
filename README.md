@@ -12,4 +12,5 @@
 - Newton's Divided-Difference Formula
 - Hermite Polynomials Using Divided Differences
 - Hermite Interpolation
+- Natural Spline Interpolation
 
