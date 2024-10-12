@@ -1,6 +1,7 @@
 # Numerical Analysis
 
 ## Solutions of Equations in One Variable
+Solutions of equations in one variable facilitate optimization processes, such as minimizing loss functions, and help in establishing relationships between variables in regression models. They also provide theoretical foundations for various algorithms and enhance the interpretability of model results.
 - [Bisection Method](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab1.ipynb)
 - [Fixed-Point Iteration](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab1.ipynb)
 - [Newton's Method and Its Extensions](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab2.ipynb)
