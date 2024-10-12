@@ -3,8 +3,8 @@
 ## Solutions of Equations in One Variable
 - [Bisection Method](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab1.ipynb)
 - [Fixed-Point Iteration](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab1.ipynb)
-- Newton's Method and Its Extensions
-  - Secant Method
+- [Newton's Method and Its Extensions](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab2.ipynb)
+  - [Secant Method](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab2.ipynb)
 - Muller's Method
 
 ## Interpolation and Polynomial Approximation
