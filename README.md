@@ -6,7 +6,7 @@ Solutions of equations in one variable facilitate optimization processes, such a
 - [Fixed-Point Iteration](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab1.ipynb)
 - [Newton's Method and Its Extensions](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab2.ipynb)
   - [Secant Method](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab2.ipynb)
-- Muller's Method
+- [Muller's Method](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab3.ipynb)
 
 ## Interpolation and Polynomial Approximation
 Interpolation and polynomial approximation estimate unknown values from known data points, allowing for more accurate predictions and data analysis. These techniques help in modeling complex relationships and handling noisy data, thereby improving the robustness and performance of machine learning models.
