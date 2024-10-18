@@ -10,8 +10,8 @@ Solutions of equations in one variable facilitate optimization processes, such a
 
 ## Interpolation and Polynomial Approximation
 Interpolation and polynomial approximation estimate unknown values from known data points, allowing for more accurate predictions and data analysis. These techniques help in modeling complex relationships and handling noisy data, thereby improving the robustness and performance of machine learning models.
-- Langrange Interpolating Polynomial
-- Newton's Divided-Difference Formula
+- [Langrange Interpolating Polynomial](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab4.ipynb)
+- [Newton's Divided-Difference Formula](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab4.ipynb)
 - Hermite Polynomials Using Divided Differences
 - Hermite Interpolation
 - Natural Cubic Spline Interpolation
