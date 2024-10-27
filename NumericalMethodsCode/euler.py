@@ -20,5 +20,3 @@ def euler(f,a,b,alpha,N):
         # calculate w_{i+1}
         w[i] = w[i-1] + h * f(t[i-1], w[i-1])
         t[i] = a + i * h
-    
-    return t,w
