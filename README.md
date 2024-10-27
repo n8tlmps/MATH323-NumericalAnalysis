@@ -14,7 +14,7 @@ Interpolation and polynomial approximation estimate unknown values from known da
 - [Newton's Divided-Difference Formula](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab4.ipynb)
 - [Hermite Polynomials Using Divided Differences](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab5.ipynb)
 - [Hermite Interpolation](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab5.ipynb)
-- Natural Cubic Spline Interpolation
+- [Natural Cubic Spline Interpolation](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab6.ipynb)
 
 ## Numerical Differentiation and Integration
 Numerical differentiation and integration can be used to estimate gradients and optimize functions, which are essential for training models through techniques like gradient descent. Additionally, these methods help in approximating areas under curves for probability distributions, enabling better understanding and modeling of uncertainty in predictions.
