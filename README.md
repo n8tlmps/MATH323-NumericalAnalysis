@@ -12,8 +12,8 @@ Interpolation and polynomial approximation estimate unknown values from known da
 Numerical differentiation and integration can be used to estimate gradients and optimize functions, which are essential for training models through techniques like gradient descent. Additionally, these methods help in approximating areas under curves for probability distributions, enabling better understanding and modeling of uncertainty in predictions.
 
 ### 1D
-- Composite Simpson's Rule
-- Gaussian Quadrature
+- [Composite Simpson's Rule](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab7.ipynb)
+- [Gaussian Quadrature](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab7.ipynb)
 ### 2D
 - Composite Simpson's Rule
 - Gaussian Quadrature
