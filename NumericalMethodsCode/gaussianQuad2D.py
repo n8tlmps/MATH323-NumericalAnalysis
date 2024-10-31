@@ -40,9 +40,9 @@ def gaussianQuad2D(f,a,b,c,d,n,m):
     integPt[3][4] = -0.9061798459
 
     # change variable of y, f(x,y) -> g(x,v)
-    g = lambda x, v: f(x, (d(x) - c(x)) / 2)*v + ((d(x) + c(x)) / 2)*(d(x)-c(x))/2
-# change variable of x. g(x,v) -> h(u,v)
-    h = lambda u, v: g((b-a)/2 * u + (b+a)/2,v) * (b-a)/2
+    g = lambda x, v: f(x, (d(x) - c(x)) / 2 * v + (d(x) + c(x)) / 2) * (d(x) - c(x)) / 2
+    # change variable of x. g(x,v) -> h(u,v)
+    h = lambda u, v: g((b - a) / 2 * u + (b + a) / 2, v) * (b - a) / 2
 # now the integral is int_[-1 1] int_[-1 1] h(u,v) dv du
 # start I as 0
     I = 0
@@ -54,10 +54,4 @@ def gaussianQuad2D(f,a,b,c,d,n,m):
             I += coef[n-2][i] * coef[m-2][j] * h(integPt[n-2][i], integPt[m-2][j])
     return I
 
-#import numpy as np
-f1 = lambda x,y: np.cos(3*x**2+y) - np.sqrt(4*abs(y)) + 1/(x**2+y**2)
-I1 = gaussianQuad2D(f1, -1.3, 4.1, lambda x: 2*x, lambda x: x**3, 3, 5)
-I2 = gaussianQuad2D(f1, -1.3, 4.1, lambda x: -5*x, lambda x: x+4, 4, 2)
-I3 = gaussianQuad2D(f1, 5.3, 10.1, lambda x: x**2, lambda x: np.cos(x), 4, 2)
-print(f'I1 = {I1}, I2 = {I2}, I3 = {I3}')
 
