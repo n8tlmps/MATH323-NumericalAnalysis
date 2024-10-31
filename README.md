@@ -15,8 +15,8 @@ Numerical differentiation and integration can be used to estimate gradients and 
 - [Composite Simpson's Rule](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab7.ipynb)
 - [Gaussian Quadrature](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab7.ipynb)
 ### 2D
-- Composite Simpson's Rule
-- Gaussian Quadrature
+- [Composite Simpson's Rule](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab8.ipynb)
+- [Gaussian Quadrature](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab8.ipynb)
 
 ## Initial-Value Problems for Ordinary Differential Equations
 Initial-value problems for ordinary differential equations (ODEs) are used to model dynamic systems where the future state depends on both the current state and its rate of change, enabling the simulation of complex behaviors over time. These problems are particularly relevant in areas such as reinforcement learning and neural network training, where they can help optimize trajectories and improve model performance by capturing temporal dependencies.
