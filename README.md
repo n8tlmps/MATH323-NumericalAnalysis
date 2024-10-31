@@ -8,8 +8,8 @@ Interpolation and polynomial approximation estimate unknown values from known da
 - [Hermite Interpolation](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab5.ipynb)
 - [Natural Cubic Spline Interpolation](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab6.ipynb)
 
-## Numerical Differentiation and Integration
-Numerical differentiation and integration can be used to estimate gradients and optimize functions, which are essential for training models through techniques like gradient descent. Additionally, these methods help in approximating areas under curves for probability distributions, enabling better understanding and modeling of uncertainty in predictions.
+## Numerical Integration
+Numerical integration considers approximating integrals of one or two variables.The Composite Simpson's rule was easy to use and produced accurate approximations unless the function oscillated in a subinterval of the interval of integration. Gaussian quadrature gave us the ability to minimize the number of nodes while maintaining accuracy.
 
 ### 1D
 - [Composite Simpson's Rule](https://github.com/n8tmps/MATH323-NumericalAnalysis/blob/main/Lab7.ipynb)
