@@ -12,15 +12,16 @@ def gaussianElim(A):
     for i in range(n):
         # find the first nonzero entry in the i-th row from a_ii to a_in
         p_all = np.nonzero(A[i:,i])[0] # all indices of the nonzeros entries
-        p = p_all[0]
 
         # if there is no nonzero entry, make x = message about no unique solution
-        if A[p, i] == 0:#if p_all.size == 0:
+        if p_all.size == 0:
             return "No unique solution exists"
+        
+        p = p_all[0] + i
 
         # if the nonzero entry is not at a_ii (p > 0), swap rows (row i and row p+i)
-        if p > 0:
-            A[[i, i + p]] = A[[i + p], i]
+        if p > i:
+            A[[i, p]] = A[[p, i]]
 
         # do row operations to zero out the entries below a_ii, for loop j = i+1:n-1, E_j <= E_j - a_{ji}/a_{ii} E_i
         for j in range(i + 1, n):
